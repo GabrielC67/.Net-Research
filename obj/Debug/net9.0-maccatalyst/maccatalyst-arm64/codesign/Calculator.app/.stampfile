@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/gabe/Projects/VS Code/Calculator/Calculator/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/gabe/Projects/VS Code/Calculator/Calculator/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/Calculator.app
